@@ -8,9 +8,9 @@ I am a Computer Science graduate and software developer specializing in building
 *   **Core Focus:** RESTful APIs, System Architecture, Database Design, Cross-Platform Logic
 
 ### 🚀 Featured Project: Wasel
-Currently showcasing **Wasel**, a cross-platform application built for cultural event discovery in Riyadh. 
-*   **Backend:** Engineered the AI-driven logic and backend infrastructure using Python.
-*   **Frontend:** Developed a responsive, cross-platform user experience using Flutter.
+**Wasel** is a cross-platform event discovery and smart booking application for cultural events in Riyadh.
+*   **App Development (Flutter & Dart):** Built a bilingual (AR/EN) mobile application utilizing Firebase Auth/Firestore, Provider for state management, and location-based services.
+*   **AI Engine (FastAPI & Python):** Engineered an AI-powered backend integrating Groq LLMs for a conversational chatbot, scikit-learn for content-based event recommendations, and live crowd prediction algorithms.
 
 ### 📫 Let's Connect
 *   [LinkedIn](www.linkedin.com/in/alanoud-alshunaybir-539726384)
