@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Alanoud Alshunaybir 👋
 
-<!--
-**A-Alshunaybir/A-Alshunaybir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Science graduate and aspiring software developer with a strong focus on backend architecture, AI integration, and data analytics. I enjoy building the logic, databases, and systems that power applications behind the scenes.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+*   **Languages:** Python, Java, Dart
+*   **Frameworks/APIs:** FastAPI, Flutter
+*   **Focus Areas:** System Architecture, Business Intelligence, Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Project: Wasel
+Currently showcasing **Wasel**, a cross-platform application for cultural event discovery in Riyadh, featuring a Python-driven AI backend and a Flutter frontend.
+
+### 📫 Let's Connect
+*   [LinkedIn](YOUR_LINKEDIN_URL_HERE)
+*   Email: [YOUR_EMAIL_HERE]
