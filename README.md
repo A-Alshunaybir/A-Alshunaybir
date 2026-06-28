@@ -11,5 +11,5 @@ I am a Computer Science graduate and aspiring software developer with a strong f
 Currently showcasing **Wasel**, a cross-platform application for cultural event discovery in Riyadh, featuring a Python-driven AI backend and a Flutter frontend.
 
 ### 📫 Let's Connect
-*   [LinkedIn](YOUR_LINKEDIN_URL_HERE)
-*   Email: [YOUR_EMAIL_HERE]
+*   [LinkedIn](www.linkedin.com/in/alanoud-alshunaybir-539726384)
+*   Email: [Alanoudalshunaybir@gmail.com]
